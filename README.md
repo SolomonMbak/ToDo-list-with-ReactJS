@@ -1,7 +1,7 @@
-ADD TASKS Page
+ADD TASKS
 ![Screenshot 2022-05-28 204531](https://user-images.githubusercontent.com/23240010/170840753-e9f1019f-b63d-4730-a2b6-6096a47fbd92.png)
 
-UPDATE TASKS Page
+UPDATE TASKS
 ![Screenshot 2022-05-28 204611](https://user-images.githubusercontent.com/23240010/170840760-616e2c67-a646-4c1c-a8ee-86767754af03.png)
 
 FUNCTIONALITIES:
